@@ -1,0 +1,14 @@
+{
+  "name": "exproutingpp1",
+  "version": "1.0.0",
+  "description": "Practice with express routing --- mini project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christopher Patrick",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
